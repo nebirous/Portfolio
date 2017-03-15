@@ -1,4 +1,4 @@
-# [David Salguero García](http://soy.nebirous.es/) - [Portfolio](http://startbootstrap.com/template-overviews/grayscale/)
+# [David Salguero García](http://soy.nebirous.es/) - Portfolio
 
 En este repositorio puedes encontrar los archivos que componen mi página de portfolio. Basados en el template 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/), creado por [Start Bootstrap](http://startbootstrap.com/) y modificado por mi mismo para adecuarse a mis necesidades.
