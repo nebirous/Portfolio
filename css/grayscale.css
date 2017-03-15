@@ -381,7 +381,8 @@ skills{
   -moz-transition: background 0.1s ease-in-out;
   transition: background 0.1s ease-in-out;
 }
-.btn-circle-flickr:hover{
+.btn-circle-flickr:hover,
+.btn-circle-flickr:focus{
   outline: none;
   color: white;
   background: rgba(255, 0, 132, 1);
@@ -402,7 +403,8 @@ skills{
   -moz-transition: background 0.1s ease-in-out;
   transition: background 0.1s ease-in-out;
 }
-.btn-circle-eal:hover{
+.btn-circle-eal:hover,
+.btn-circle-eal:focus{
   outline: none;
   color: white;
   background: rgba(149, 198, 40, 1);
@@ -423,10 +425,33 @@ skills{
   -moz-transition: background 0.1s ease-in-out;
   transition: background 0.1s ease-in-out;
 }
-.btn-circle-github:hover{
+.btn-circle-github:hover,
+.btn-circle-github:focus{
   outline: none;
   color: white;
   background: rgba(163, 163, 163, 1);
   border: 2px solid #a3a3a3;
+}
+
+.btn-circle-envelope {
+  width: 70px;
+  height: 70px;
+  margin-top: 15px;
+  padding: 0px 16px;
+  border: 2px solid White;
+  border-radius: 100% !important;
+  font-size: 40px;
+  color: white;
+  background: transparent;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background 0.3s ease-in-out;
+}
+.btn-circle-envelope:hover,
+.btn-circle-envelope:focus{
+  outline: none;
+  color: black;
+  background: rgba(255, 255, 255, 1);
+  border: 2px solid #fff;
 }
 
