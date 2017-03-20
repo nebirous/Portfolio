@@ -7,7 +7,7 @@ En este repositorio puedes encontrar los archivos que componen mi página de por
 
 Si hay algún problema con este template [abre una incidencia](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) en mi github. 
 
-## Creator
+## Creador
 
 La adaptación del tema ha sido realizada por [David Salguero García](http://soy.nebirous.es)([Nebirous](http://twitter.com/nebirous))
 
