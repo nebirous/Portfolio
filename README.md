@@ -3,10 +3,6 @@
 En este repositorio puedes encontrar los archivos que componen mi página de portfolio. Basados en el template 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/), creado por [Start Bootstrap](http://startbootstrap.com/) y modificado por mi mismo para adecuarse a mis necesidades.
 
-## Bugs e incidencias
-
-Si hay algún problema con este template [abre una incidencia](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) en mi github. 
-
 ## Creador
 
 La adaptación del tema ha sido realizada por [David Salguero García](http://soy.nebirous.es)([Nebirous](http://twitter.com/nebirous))
