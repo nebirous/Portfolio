@@ -1,12 +1,12 @@
+![Alt text](/Res/preview.png)
 # [David Salguero García](http://soy.nebirous.es/) - Portfolio
 
-En este repositorio puedes encontrar los archivos que componen mi página de portfolio. Basados en el template 
-[Grayscale]([http://startbootstrap.com/template-overviews/grayscale/](https://startbootstrap.com/theme/grayscale)), creado por [Start Bootstrap](http://startbootstrap.com/) y modificado por mi mismo para adecuarse a mis necesidades.
+In this repository you can find the sourcecode of my portfolio sebsite. On the beginning it was based on the template [Grayscale]([http://startbootstrap.com/template-overviews/grayscale/](https://startbootstrap.com/theme/grayscale)), by [Start Bootstrap](http://startbootstrap.com/) but during time I have been modifying it to add different functionalities and aesthetic modiffications. 
+
+You can see it live [here](https://nebirous.github.io/Portfolio/)
 
 ## Creador
 
-La adaptación del tema ha sido realizada por [David Salguero García](http://nebirous.es)([Nebirous](http://twitter.com/nebirous))
+Modifications made by [David Salguero García](https://nebirous.github.io/Portfolio/)([Nebirous](http://twitter.com/nebirous))
 
-Start Bootstrap fue creado y mantenido por **David Miller**
-
-Start Bootstrap está basado en [Bootstrap](http://getbootstrap.com/) framework creado por [Mark Otto](https://twitter.com/mdo) y [Jacob Thorton](https://twitter.com/fat).
+Based on [Bootstrap](http://getbootstrap.com/) framework by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
